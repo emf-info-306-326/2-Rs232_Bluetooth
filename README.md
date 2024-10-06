@@ -1,6 +1,6 @@
 # 2-Rs232_Bluetooth
 Voici un aperçu des deux applications Java RS232 Listener et Thread :
-![Screenshot](images/screenshot.png)
+![Screenshot](screenshot.png)
 
 ## Tâches à effectuer
 Par groupe de deux apprenti(e)s, réalisez les tâches suivantes :
