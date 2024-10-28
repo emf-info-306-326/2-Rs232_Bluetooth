@@ -286,7 +286,7 @@ public class Ihm extends javax.swing.JFrame {
     }
     
     public void afficheConsole(String text){
-        taConsole.insert(text + "\n", 1);
+        taConsole.insert(text + "\n", 0);
     }
     
     public void setRefCtrl(Ctrl refCtrl) {
